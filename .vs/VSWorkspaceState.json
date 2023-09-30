@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ModeloAPI",
+    "\\ModeloAPI\\ModeloAPI",
+    "\\ModeloAPI\\Service",
+    "\\ModeloAPI\\ServiceModels",
+    "\\ModeloAPI\\ServiceRepository"
+  ],
+  "SelectedNode": "\\ModeloAPI\\ModeloAPI\\ModeloAPI.csproj.user",
+  "PreviewInSolutionExplorer": false
+}

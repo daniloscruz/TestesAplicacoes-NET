@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "I0RBFwzd4vNO0f+kreTNua5G2ioTk1oYwHO7jBzOLJw=",
+  "Source": "ServiceRepository",
+  "BasePath": "_content/ServiceRepository",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Danilo\\source\\repos\\ModeloAPI\\ServiceModels\\ServiceModels.csproj",
+      "Version": 2,
+      "Source": "ServiceModels",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
